@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AppCompatTextView" type="id">Login</item>
+    <item name="AppCompatImageButton" type="id">Login</item>
+    <item name="text1" type="id">driver</item>
+</resources>
